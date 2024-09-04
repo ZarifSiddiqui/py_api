@@ -1,6 +1,5 @@
 GET http://159.100.30.153:3001/data?param1=course&param2=15
 Authorization: Bearer 176c6dc96602913235afee89cbf607d2
 
-Availble param1
-{student,course,allstudent}
-Use param2 as Key ID (studentid,teacherid,voucherid)
+available param1 (student, course, allstudent)
+Use param2 as Key ID (student ID, teacher ID, voucher ID)
